@@ -1,0 +1,11 @@
+id: 5b2710a0ac1d490eb35463b100b13977
+annotation_type: index
+revision: '00001'
+annotations:
+  25ef8d4d26b24ee583a39c4e520efc62:
+    base: F4C3.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 21834

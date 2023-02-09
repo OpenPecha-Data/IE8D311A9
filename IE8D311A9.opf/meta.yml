@@ -1,0 +1,16 @@
+id: IE8D311A9
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:40:38.158718
+last_modified: 2023-02-09 14:40:38.158817
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: en
+bases:
+  F4C3:
+    base_file: F4C3.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
